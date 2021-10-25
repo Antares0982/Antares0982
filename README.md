@@ -1,5 +1,7 @@
 ## Hi, here is Antares
 
+<a href="https://visitor-badge.glitch.me"><img align='left' src="https://visitor-badge.glitch.me/badge?page_id=Antares0982.Antares0982"/></a>
+
 I'm a graduate student in Nanjing University, major in Mathematics. My research field is [statistical learning](https://en.wikipedia.org/wiki/Statistical_learning_theory). I'm also interested in software development but is a bad coder. I also like algorithms, and now I'm doing leetcode using C++.
 
 My personal website is [chr.fan](https://chr.fan/). Telegram channel: [Antares At Home](https://t.me/AntaresAtHome).
@@ -16,8 +18,6 @@ I am also a fan of
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Antares0982&show_icons=true&count_private=True&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a>
 
-
-
 #### 🔭 I’m currently coding on ...
 
 * [MiraiCP](https://github.com/Nambers/MiraiCP)
@@ -29,7 +29,6 @@ I am also a fan of
 - C++
 - Computer Graphics
 
-
 #### 📘 I’m currently reading ...
 
 - 测度论讲义，严加安
@@ -40,7 +39,6 @@ I am also a fan of
 
 * Only math, maybe a little Python3. I'm actually not very familiar with computer science, at least for now. I'm a self-learner :)
 
-
 #### 🎮 I like Playing ...
 
 - Left 4 Dead 2 (I'm running a pure server, playing realistic impossible campaign. Also a CSGO server but only play against bots for fun)
@@ -50,4 +48,3 @@ I am also a fan of
 #### 📫 contact me with:
 
  [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AntaresChr)  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Antares0982@gmail.com)
-
