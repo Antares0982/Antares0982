@@ -1,6 +1,6 @@
 ## Hi, here is Antares
 
-<a href="https://visitor-badge.glitch.me"><img align='left' src="https://visitor-badge.glitch.me/badge?page_id=Antares0982.Antares0982"/></a>
+<a href="https://visitor-badge.glitch.me"><img align='left' src="https://visitor-badge.glitch.me/badge?page_id=Antares0982.Antares0982"/></a><br> 
 
 I'm a graduate student in Nanjing University, major in Mathematics. My research field is [statistical learning](https://en.wikipedia.org/wiki/Statistical_learning_theory). I'm also interested in software development but is a bad coder. I also like algorithms, and now I'm doing leetcode using C++.
 
