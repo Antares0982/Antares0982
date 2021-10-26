@@ -6,7 +6,7 @@ I'm a graduate student in Nanjing University, major in Mathematics. My research 
 
 My personal website is [chr.fan](https://chr.fan/). Telegram channel: [Antares At Home](https://t.me/AntaresAtHome).
 
-The language I like best is Python (however, type hints is always needed and I cannot bear codes not using type hints), since I feel very free when writing and running codes.
+The language I like best is Python (however, type hints are always needed and I cannot bear codes not using type hints), since I feel very free when writing and running codes.
 
 I am also a fan of
 
