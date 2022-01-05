@@ -2,7 +2,7 @@
 
 <a href="https://visitor-badge.glitch.me"><img align='left' src="https://visitor-badge.glitch.me/badge?page_id=Antares0982.Antares0982"/></a><br> 
 
-I'm a graduate student in Nanjing University, major in Mathematics. My research field is [statistical learning](https://en.wikipedia.org/wiki/Statistical_learning_theory). I'm also interested in software development but is a bad coder. I also like algorithms, and now I'm doing leetcode using C++.
+I'm a graduate student in Nanjing University, major in Mathematics. My research field is [statistical learning](https://en.wikipedia.org/wiki/Statistical_learning_theory). I'm also interested in software development but is a bad coder. I also like algorithms, and I'm doing leetcode using C++.
 
 My personal website is [chr.fan](https://chr.fan/). Telegram channel: [Antares At Home](https://t.me/AntaresAtHome).
 
@@ -22,6 +22,7 @@ I am also a fan of
 
 * [MiraiCP](https://github.com/Nambers/MiraiCP)
 * [telegram-dicebot](https://github.com/Antares0982/telegram-dice-bot), coding in a bad quality but still hope someday it will get more stars :)
+* [MAB algorithm](https://github.com/Antares0982/MAB-algorithm-template), it is my main research field and I'm considering publishing it to [pypi](https://pypi.org/).
 
 #### 🌱 I’m currently learning ...
 
@@ -31,7 +32,7 @@ I am also a fan of
 
 #### 📘 I’m currently reading ...
 
-- 测度论讲义，严加安
+- ~~测度论讲义，严加安~~
 - 基于物理的建模与动画，Donald H. House, John C. Keyser，叶劲峰等译
 - C++ Primer Plus
 
@@ -44,6 +45,7 @@ I am also a fan of
 - Left 4 Dead 2 (I'm running a pure server, playing realistic impossible campaign. Also a CSGO server but only play against bots for fun)
 - Assassin's Creed Series
 - Watch Dogs
+- Other stand-along games
 
 #### 📫 contact me with:
 
