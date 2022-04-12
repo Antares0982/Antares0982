@@ -2,11 +2,13 @@
 
 <a href="https://visitor-badge.glitch.me"><img align='left' src="https://visitor-badge.glitch.me/badge?page_id=Antares0982.Antares0982"/></a><br> 
 
-I'm a graduate student in Nanjing University, major in Mathematics. My research field is [statistical learning](https://en.wikipedia.org/wiki/Statistical_learning_theory). I'm also interested in software development but is a bad coder. I also like algorithms, and I'm doing leetcode using C++.
+I'm a graduate student in Nanjing University, major in Mathematics. My research field is [statistical learning](https://en.wikipedia.org/wiki/Statistical_learning_theory). I'm also interested in software development but is a bad coder. I also like algorithms, ~~and I'm doing leetcode using C++~~.
 
 My personal website is [chr.fan](https://chr.fan/). Telegram channel: [Antares At Home](https://t.me/AntaresAtHome).
 
-The language I like best is Python (however, type hints are always needed and I cannot bear codes not using type hints), since I feel very free when writing and running codes.
+My Reversi AI is deployed on my website [reversi.chr.fan](http://reversi.chr.fan), please feel free to battle with them.
+
+The language I like best is Python **only with TYPE HINTS**, since I feel very free when writing and running codes.
 
 I am also a fan of
 
@@ -22,19 +24,19 @@ I am also a fan of
 
 * [MiraiCP](https://github.com/Nambers/MiraiCP)
 * [telegram-dicebot](https://github.com/Antares0982/telegram-dice-bot), coding in a bad quality but still hope someday it will get more stars :)
-* [MAB algorithm](https://github.com/Antares0982/MAB-algorithm-template), it is my main research field and I'm considering publishing it to [pypi](https://pypi.org/).
+* [MAB algorithm](https://github.com/Antares0982/MAB-algorithm-template), it is my main research field and I've published it to [pypi](https://pypi.org/).
 
 #### 🌱 I’m currently learning ...
 
-- Multi-Armed Bandit Algorithms
+- Reinforcement learning
 - C++
 - Computer Graphics
 
 #### 📘 I’m currently reading ...
 
-- ~~测度论讲义，严加安~~
+- Reinforcement Learning An Introduction, 2nd edition
 - 基于物理的建模与动画，Donald H. House, John C. Keyser，叶劲峰等译
-- C++ Primer Plus
+- ~~C++ Primer Plus~~
 
 #### 💬 Ask me about ...
 
@@ -42,9 +44,11 @@ I am also a fan of
 
 #### 🎮 I like Playing ...
 
-- Left 4 Dead 2 (I'm running a pure server, playing realistic impossible campaign. Also a CSGO server but only play against bots for fun)
+- Left 4 Dead 2 (I'm running a pure server, playing realistic impossible campaign)
+- CSGO
 - Assassin's Creed Series
 - Watch Dogs
+- Fate/Grand Order
 - Other stand-along games
 
 #### 📫 contact me with:
