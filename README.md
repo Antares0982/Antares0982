@@ -2,7 +2,7 @@
 
 <a href="https://visitor-badge.glitch.me"><img align='left' src="https://visitor-badge.glitch.me/badge?page_id=Antares0982.Antares0982"/></a><br> 
 
-I'm a graduate student in Nanjing University, major in Mathematics. My research field is [statistical learning](https://en.wikipedia.org/wiki/Statistical_learning_theory). I'm also interested in software development but is a bad coder. I also like algorithms, ~~and I'm doing leetcode using C++~~.
+I'm a graduate student in Nanjing University, major in Mathematics. My research field is [reinforcement learning](https://en.wikipedia.org/wiki/Statistical_learning_theory). I'm also interested in software development but is a bad coder. I also like algorithms, ~~and I'm doing leetcode using C++~~.
 
 My personal website is [chr.fan](https://chr.fan/). Telegram channel: [Antares At Home](https://t.me/AntaresAtHome).
 
