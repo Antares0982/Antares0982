@@ -2,13 +2,15 @@
 
 <a href="https://visitor-badge.glitch.me"><img align='left' src="https://visitor-badge.glitch.me/badge?page_id=Antares0982.Antares0982"/></a><br> 
 
-I'm a graduate student in Nanjing University, major in Mathematics. My research field is [reinforcement learning](https://en.wikipedia.org/wiki/Statistical_learning_theory). I'm also interested in software development but is a bad coder. I also like algorithms, ~~and I'm doing leetcode using C++~~.
+I'm a graduate student in Nanjing University, major in Mathematics. My research field is [reinforcement learning](https://en.wikipedia.org/wiki/Statistical_learning_theory). I'm also interested in game engine and software development.
 
-My personal website is [chr.fan](https://chr.fan/). Telegram channel: [Antares At Home](https://t.me/AntaresAtHome).
+My personal website is [chr.fan](https://chr.fan/).
 
-My Reversi AI is deployed on my website [reversi.chr.fan](http://reversi.chr.fan), please feel free to battle with them.
+My Reversi AI is deployed on my website [reversi.chr.fan](http://reversi.chr.fan), please feel free to play with them.
 
-The language I like best is Python **only with TYPE HINTS**, since I feel very free when writing and running codes.
+I am good at C++, but I don't like its design. The language I like best is Python, but **only with TYPE HINTS**.
+
+I am currently working on MiraiCP, a C++ SDK for QQ bot framework mirai.
 
 I am also a fan of
 
@@ -28,24 +30,21 @@ I am also a fan of
 
 #### 🌱 I’m currently learning ...
 
-- Reinforcement learning
+- Deep reinforcement learning
 - C++
-- Computer Graphics
+- Game Engine
 
 #### 📘 I’m currently reading ...
 
 - Reinforcement Learning An Introduction, 2nd edition
 - 基于物理的建模与动画，Donald H. House, John C. Keyser，叶劲峰等译
-- ~~C++ Primer Plus~~
 
 #### 💬 Ask me about ...
 
-* Only math, maybe a little Python3. I'm actually not very familiar with computer science, at least for now. I'm a self-learner :)
+* Math, C++, Python3.
 
 #### 🎮 I like Playing ...
 
-- Left 4 Dead 2 (I'm running a pure server, playing realistic impossible campaign)
-- CSGO
 - Assassin's Creed Series
 - Watch Dogs
 - Fate/Grand Order
