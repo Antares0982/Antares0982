@@ -6,15 +6,13 @@ I was a graduate student in Nanjing University, major in Mathematics. My researc
 
 My personal website is [chr.fan](https://chr.fan/).
 
-My Reversi AI is deployed on my website [reversi.chr.fan](http://reversi.chr.fan), please feel free to play with them.
+~~My Reversi AI is deployed on my website [reversi.chr.fan](http://reversi.chr.fan), please feel free to play with them.~~
 
 I am good at C++, but I don't like its design. The language I like best is Python, but **only with TYPE HINTS**.
 
-I am currently working on MiraiCP, a C++ SDK for QQ bot framework mirai; also my Reversi AI and other personal C++ libraries.
-
 I am also a fan of
 
-![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)   ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)   ![](https://img.shields.io/badge/unreal%20engine-0E1128?style=for-the-badge&logo=unrealengine) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)   ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)   ![](https://img.shields.io/badge/unreal%20engine-0E1128?style=for-the-badge&logo=unrealengine) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### My GitHub Stat
 
@@ -22,15 +20,17 @@ I am also a fan of
 
 #### 🔭 I’m currently coding on ...
 
-* [MiraiCP](https://github.com/Nambers/MiraiCP)
+* ~~[MiraiCP](https://github.com/Nambers/MiraiCP)~~(Archived)
 * Reversi MCTS algorithm (currently a private repo) and Reversi deep reinforcement learning AI, just like Alpha Zero
 
 #### 🌱 I’m currently learning ...
 
+- Rust
+- Vulkan
 - C++ performance optimizing
 - Game Engine
 - CG
-- Deep Learning
+- ~~Deep Learning~~
 
 #### 💬 Ask me about ...
 
