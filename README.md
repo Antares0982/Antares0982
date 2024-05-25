@@ -20,7 +20,7 @@ I am also a fan of
 
 #### 🔭 I’m currently coding on ...
 
-* [py-cjson](https://github.com/0ph1uch1/pycjson), at first a toy project but went far away now
+* [pyyjson](https://github.com/0ph1uch1/yyjson)
 * ~~[MiraiCP](https://github.com/Nambers/MiraiCP)~~(Archived)
 * Reversi MCTS algorithm (currently a private repo) and Reversi deep reinforcement learning AI, just like Alpha Zero
 
@@ -40,5 +40,5 @@ I am also a fan of
 
 #### 📫 contact me with:
 
- [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AntaresChr)  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Antares0982@gmail.com?subject=[GitHub])
+ [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AntaresChr)  [email](mailto:antares@alyr?subject=[GitHub])
 
