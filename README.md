@@ -29,14 +29,14 @@ I am also a fan of
 - Nix
 - Rust
 - Vulkan
-- C++ performance optimizing
+- C/C++ performance optimizing
 - Game Engine
 - CG
 - ~~Deep Learning~~
 
 #### 💬 Ask me about ...
 
-* Math, C++, Python.
+* Math, C/C++, Python.
 
 #### 📫 contact me with:
 
