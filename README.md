@@ -20,18 +20,18 @@ I am also a fan of
 
 #### 🔭 I’m currently coding on ...
 
-* [pyyjson](https://github.com/0ph1uch1/yyjson)
-* ~~[MiraiCP](https://github.com/Nambers/MiraiCP)~~(Archived)
+* [pyyjson](https://github.com/antares0982/pyyjson), the fastest Python JSON library
 * Reversi MCTS algorithm (currently a private repo) and Reversi deep reinforcement learning AI, just like Alpha Zero
+* ~~[MiraiCP](https://github.com/Nambers/MiraiCP)~~(Archived)
 
 #### 🌱 I’m currently learning ...
 
-- Nix
+- SIMD
 - Rust
 - Vulkan
 - C/C++ performance optimizing
 - Game Engine
-- CG
+- ~~Nix~~
 - ~~Deep Learning~~
 
 #### 💬 Ask me about ...
