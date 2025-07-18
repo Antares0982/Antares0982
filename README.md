@@ -18,7 +18,7 @@ I am also a fan of
 
 #### 🔭 I’m currently coding on ...
 
-* [ssrJSON](https://github.com/antares0982/ssrjson-legacy), an extremely fast Python JSON library boosted by SIMD
+* [ssrJSON](https://github.com/antares0982/ssrjson), an extremely fast Python JSON library boosted by SIMD
 
 #### 🌱 I’m currently learning ...
 
