@@ -8,9 +8,11 @@ My personal website is [chr.fan](https://chr.fan/).
 
 I am good at C++, but I don't like its design. The language I like best is Python, but **only with TYPE HINTS**.
 
+I use ![](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=white) for developing, BTW.
+
 I am also a fan of
 
-![](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=white)   ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)   ![](https://img.shields.io/badge/unreal%20engine-0E1128?style=for-the-badge&logo=unrealengine)  ![](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)   ![](https://img.shields.io/badge/unreal%20engine-0E1128?style=for-the-badge&logo=unrealengine)  ![](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 ### My GitHub Stat
 
