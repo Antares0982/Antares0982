@@ -1,6 +1,6 @@
 ## Hi, here is Antares
 
-<a href="https://visitor-badge.glitch.me"><img align='left' src="https://visitor-badge.glitch.me/badge?page_id=Antares0982.Antares0982"/></a><br> 
+<a href="https://github.com/Antares0982/visitor-badge"><img align='left' src="http://chr.fan:30419/badge?page_id=antares0982"/></a><br> 
 
 I was a graduate student in Nanjing University, major in Mathematics. My research field was reinforcement learning. Currently I'm a game engine developer focusing on performance optimization.
 
