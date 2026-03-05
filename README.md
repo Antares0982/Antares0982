@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Antares0982/visitor-badge"><img align='left' src="http://chr.fan:30419/badge?page_id=antares0982"/></a><br> 
 
-I was a graduate student in Nanjing University, major in Mathematics. My research field was reinforcement learning. Currently I'm a game engine developer focusing on performance optimization.
+I was a graduate student in Nanjing University, major in Mathematics. Currently I'm a game engine developer focusing on performance optimization.
 
 My personal website is [chr.fan](https://chr.fan/).
 
@@ -21,6 +21,7 @@ I am also a fan of
 #### 🔭 I’m currently coding on ...
 
 * [ssrJSON](https://github.com/antares0982/ssrjson), an extremely fast Python JSON library boosted by SIMD
+* [Żmij](https://github.com/vitaut/zmij), a fast double-to-string conversion algorithm
 
 #### 🌱 I’m currently learning ...
 
@@ -33,9 +34,8 @@ I am also a fan of
 
 #### 💬 Ask me about ...
 
-* Math, C/C++, Python.
+* C/C++, Python.
 
 #### 📫 contact me with:
 
- [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AntaresChr)  [email](mailto:antares@alyr.dev?subject=[GitHub])
-
+ [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AntaresChr)
