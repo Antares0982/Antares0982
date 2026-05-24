@@ -21,7 +21,7 @@ I am also a fan of
 #### 🔭 I’m currently coding on ...
 
 * [ssrJSON](https://github.com/antares0982/ssrjson), an extremely fast Python JSON library boosted by SIMD
-* [Żmij](https://github.com/vitaut/zmij), a fast double-to-string conversion algorithm
+* [xjb](https://github.com/xjb714/xjb), a fast double-to-string conversion algorithm
 
 #### 🌱 I’m currently learning ...
 
