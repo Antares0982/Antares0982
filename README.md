@@ -1,6 +1,6 @@
 ## Hi, here is Antares
 
-<a href="https://github.com/Antares0982/visitor-badge"><img align='left' src="http://chr.fan:30419/badge?page_id=antares0982"/></a><br> 
+<a href="https://github.com/Antares0982/visitor-badge"><img align='left' src="https://chr.fan/api/visitor-badge.svg"/></a><br>
 
 I was a graduate student in Nanjing University, major in Mathematics. Currently I'm a game engine developer focusing on performance optimization.
 
